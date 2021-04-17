@@ -1,1 +1,3 @@
 zmeny v novem repo2.txt v gitu
+zmena v branchi ukol2
+a dalsi zmena xyz v branchi ukol2
